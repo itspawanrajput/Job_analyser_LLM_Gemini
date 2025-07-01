@@ -6,7 +6,7 @@ This project is an AI-powered job analyzer that scrapes job postings from the we
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/itspawanrajput/Job_analyser_LLM_Gemini
     ```
 2.  Navigate to the project directory:
     ```bash
