@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Temporary files
+indeed_search_results.html
